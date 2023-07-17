@@ -1,20 +1,10 @@
-<!-- README -->
-<div align="center">
-    <img src="https://your-image-url" alt="Coding Dynamic Image">
-</div>
-<h1 align="center">Hi there! 👋 I'm Pradhuman Pandey</h1>
+### Hi there 👋, I am Pradhuman Pandey
 
-<div align="center">
-    <p><strong>🔭 I'm currently working on MERN stack.</strong></p>
-    <p><strong>🌱 I'm currently learning Node.</strong></p>
-    <p><strong>👯 I'm looking to collaborate on Node.</strong></p>
-    <p><strong>🤔 I'm looking for help with NGINX and Docker.</strong></p>
-    <p><strong>💬 Ask me about React.</strong></p>
-    <p><strong>📫 How to reach me: pradhumanpandeycpp@gmail.com</strong></p>
-    <p><strong>😄 Pronouns: he/him</strong></p>
-    <p><strong>⚡ Fun fact: I love Cricket.</strong></p>
-</div>
-
-<!-- Add more sections as needed -->
-
-<!-- Remember to replace "your-image-url" with the actual URL of your coding dynamic image. -->
+- 🔭 I’m currently working on MERN stack.
+- 🌱 I’m currently learning Node.
+- 👯 I’m looking to collaborate on Node.
+- 🤔 I’m looking for help with NGINX and Docker.
+- 💬 Ask me about React.
+- 📫 How to reach me: pradhumanpandeycpp@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love Cricket.
